@@ -1,8 +1,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/segments-ai/predictive-labeling-workflow/blob/master/demo.ipynb)
 
-This repository contains the code for the blogpost [Speeding up your labeling workflow for image segmentation](https://segments.ai/blog/speed-up-labeling-workflow-image-segmentation) on [Segments.ai](https://segments.ai).
+This repository contains the code for the blogpost [Speed up your labeling workflow for image segmentation](https://segments.ai/blog/speed-up-labeling-workflow-image-segmentation) on [Segments.ai](https://segments.ai).
 
-# Speeding up your labeling workflow for image segmentation
+# Speed up your labeling workflow for image segmentation
 
 A large dataset of labeled images is the first thing you need in any serious computer vision project.
 Building such datasets is a time-consuming endeavour, involving lots of manual labeling work. This is especially true for tasks like image segmentation where the labels need to be very precise.
