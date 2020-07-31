@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/segments-ai/predictive-labeling-workflow/blob/master/demo.ipynb)
 
-This repository contains the code for the blogpost [Speeding up your labeling workflow for image segmentation](https://segments.ai/blog/speeding-up-labeling-workflow-for-image-segmentation) on [Segments.ai](https://segments.ai).
+This repository contains the code for the blogpost [Speeding up your labeling workflow for image segmentation](https://segments.ai/blog/speed-up-labeling-workflow-image-segmentation) on [Segments.ai](https://segments.ai).
 
 # Speeding up your labeling workflow for image segmentation
 
@@ -25,3 +25,5 @@ We will walk you through a simple but efficient setup:
 4. Correct the mistakes.
 
 You can find all code for this tutorial on [Github](https://github.com/segments-ai/fast-labeling-workflow), or follow along on [Google Colab](https://colab.research.google.com/github/segments-ai/fast-labeling-workflow/blob/master/demo.ipynb).
+
+Read the [full blogpost](https://segments.ai/blog/speed-up-labeling-workflow-image-segmentation) on [Segments.ai](https://segments.ai).
