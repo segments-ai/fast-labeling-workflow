@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/segments-ai/predictive-labeling-workflow/blob/master/demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/segments-ai/fast-labeling-workflow/blob/master/demo.ipynb)
 
 This repository contains the code for the blogpost [Speed up your image segmentation workflow with model-assisted labeling](https://segments.ai/blog/speed-up-image-segmentation-with-model-assisted-labeling) on [Segments.ai](https://segments.ai).
 
