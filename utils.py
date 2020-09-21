@@ -84,6 +84,7 @@ def train_model(dataset):
     cfg.MODEL.WEIGHTS = os.path.join(cfg.OUTPUT_DIR, 'model_final.pth')
     cfg.MODEL.ROI_HEADS.SCORE_THRESH_TEST = 0.7   # set the testing threshold for this model
     cfg.DATASETS.TEST = ('my_dataset', )
+    cfg.TEST.DETECTIONS_PER_IMAGE = 1000
     predictor = DefaultPredictor(cfg)
     model = Model(predictor)
 
