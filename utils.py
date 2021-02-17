@@ -47,7 +47,7 @@ class Model:
 
 def train_model(dataset):
     # Export the dataset to COCO format
-    export_file, image_dir = export_dataset(dataset)
+    export_file, image_dir = export_dataset(dataset, export_format='coco-instance')
     
     # Register it as a COCO dataset in the Detectron2 framework
     try:
