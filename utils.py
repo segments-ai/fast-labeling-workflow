@@ -55,7 +55,7 @@ def train_model(dataset):
     except:
         print('Dataset was already registered')
     dataset_dicts = load_coco_json(export_file, image_dir)
-    MetadataCatalog.get('my_dataset').set(thing_classes=[c['name'] for c in dataset.categories])
+    MetadataCatalog.get('my_dataset').set(thing_classes=[c.name for c in dataset.categories])
     segments_metadata = MetadataCatalog.get('my_dataset')
     print(segments_metadata)
     
